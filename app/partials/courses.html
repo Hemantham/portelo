@@ -1,0 +1,20 @@
+<div id="pl-cards" class="row-fluid" style="margin-left:10px;">
+    <!-- <div class="pl-card-link well" style="margin:25px;"><span class="glyphicon glyphicon-chevron-up"></span> Up</div> -->
+    <div class="col-md-3" ng-repeat="cards in cardStack | filter:$parent.searchText">
+        <div class="pl-card col-md-3" ng-repeat="card in cards">
+            <div ng-show="card.imageUrl" class="course-img" style="background-image:url('{{card.imageUrl}}')"></div>
+            <div class="pl-card-title" ng-click="goToCardUrl(card)">{{card.title}}</div>
+            <div ng-show="card.externalLinks">
+                <div class="pl-card-info" ng-repeat="announcement in card.cardAnnouncements track by $index" ng-show="card.collapsed"><b>{{announcement.subject}}</b><br/>{{announcement.text}}</div>
+                <div class="pl-card-info" ng-show="card.collapsed && card.cardAnnouncementsLoaded && card.cardAnnouncements.length == 0">Sorry, no announcements at this time.</div>
+                <div class="pl-card-info" ng-show="card.collapsed && !card.cardAnnouncementsLoaded"><img src="../img/loader.gif" style="max-height:26px;"></div>
+                <div class="pl-card-links" ng-click="loadWhatsNew(card);card.collapsed=true;" ng-show="!card.collapsed">
+                    <div class="pl-card-link"><span class="glyphicon glyphicon-bullhorn"></span> What's new?</div>
+                </div>
+                <div class="pl-card-links" ng-click="card.collapsed=false;" ng-show="card.collapsed">
+                    <div class="pl-card-link"><span class="glyphicon glyphicon-chevron-up"></span> Back</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

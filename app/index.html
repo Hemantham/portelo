@@ -1,0 +1,65 @@
+<!doctype html>
+<html ng-app="portello">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+</head>
+
+<body>
+    <div style="background-color:#023459; padding-top:26px; padding-left:20px;height:104px;"><img src="http://www.cci.edu/images/logo.gif"></div>
+    <nav class="navbar navbar-inverse" role="navigation" style="border-radius:0px" ng-controller="HeaderCtrl">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <!-- <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Portello</a>
+        </div> -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+             <ul class="nav navbar-nav">
+                <li class="active" ng-show="username"><a href="#">{{username}}</a></li>
+                <li><a href="#">My Courses</a>
+                </li>
+                <li><a href="#">Other Stuff</a>
+                </li>
+            </ul>
+            <form class="navbar-form navbar-left" role="search">
+                <div class="form-group">
+                    <input ng-model="searchText" type="text" class="form-control" placeholder="Search">
+                </div>
+            </form>
+        </div>
+        <!-- /.navbar-collapse -->
+    </nav>
+
+    <!--Courses-->
+
+    <div ui-view></div>
+
+    <!--End Courses-->
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.0/angular.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.0/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular-animate.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular-cookies.js"></script>
+    
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/directives.js"></script>
+    <script type="text/javascript" src="js/controllers.js"></script>
+    <script type="text/javascript" src="js/services.js"></script>
+   
+    
+</body>
+
+</html>
