@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getRandomInt"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"card",
+				"cardService"
+			],
+			[
+				"parent",
+				"parentToBe"
+			],
+			[
+				"load",
+				"loadCards"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ca",
+				"cardService"
+			],
+			[
+				"pst",
+				"postData"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"lightg",
+				"lightslategray"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"c",
+				"controllers"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"searc",
+				"searchArticles"
+			],
+			[
+				"update",
+				"updateArticles"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nadeesha/mocha/mocha-test.js",
+		"/home/nadeesha/mocha-test.js",
+		"/home/nadeesha/repos/portello/app/js/app.js",
+		"/home/nadeesha/repos/thisday/routes/api.js",
+		"/home/nadeesha/repos/thisday/tests/user-test.js",
+		"/home/nadeesha/repos/thisday/app.js",
+		"/home/nadeesha/.config/sublime-text-2/Packages/JSHint Gutter/.jshintrc",
+		"/home/nadeesha/repos/thisday/tests/test-util.js",
+		"/home/nadeesha/repos/thisday/node_modules/express/node_modules/connect/node_modules/multiparty/.jshintrc",
+		"/home/nadeesha/repos/thisday/routes/index.js",
+		"/home/nadeesha/repos/portello/node_modules/express/node_modules/connect/node_modules/multiparty/.jshintrc",
+		"/home/nadeesha/repos/portello/app/js/services.js",
+		"/home/nadeesha/repos/portello/app/css/app.css",
+		"/home/nadeesha/repos/portello/app/index.html",
+		"/home/nadeesha/repos/portello/app/partials/courses.html",
+		"/home/nadeesha/repos/portello/app.js",
+		"/home/nadeesha/repos/portello/app/partials/login.html",
+		"/home/nadeesha/.config/sublime-text-2/Packages/JsFormat/Default (Linux).sublime-keymap",
+		"/home/nadeesha/repos/portello/app/js/controllers.js",
+		"/home/nadeesha/repos/portello/app/js/directives.js",
+		"/home/nadeesha/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/nadeesha/.config/sublime-text-2/Packages/TidyHTML5/TidyHTML.sublime-settings",
+		"/home/nadeesha/.config/sublime-text-2/Packages/User/TidyHTML.sublime-settings",
+		"/home/nadeesha/.config/sublime-text-2/Packages/TidyHTML5/Default (Linux).sublime-keymap",
+		"/home/nadeesha/.config/sublime-text-2/Packages/TidyHTML5/Default (OSX).sublime-keymap",
+		"/home/nadeesha/repos/portello/app/js/directives.ks",
+		"/home/nadeesha/repos/portello/package.json",
+		"/home/nadeesha/repos/portello/index.html",
+		"/home/nadeesha/collab-test/test.js",
+		"/home/nadeesha/repos/muttley/css/code.css",
+		"/home/nadeesha/repos/muttley/js/controllers.js",
+		"/home/nadeesha/repos/muttley/partials/landing.html",
+		"/home/nadeesha/repos/muttley/index.html",
+		"/home/nadeesha/repos/muttley/css/app.css",
+		"/home/nadeesha/repos/muttley/partials/articles.html",
+		"/home/nadeesha/repos/muttley/muttley.sublime-project",
+		"/home/nadeesha/repos/muttley/partials/login.html",
+		"/home/nadeesha/repos/muttley/js/app.js",
+		"/home/nadeesha/repos/muttley/js/services.js",
+		"/home/nadeesha/repos/muttley/js/filters.js",
+		"/home/nadeesha/repos/muttley/js/directives.js",
+		"/home/ubuntu/Documents/educations/Untitled Folder/sample.html",
+		"/home/ubuntu/Documents/hackathon/js/code.js",
+		"/home/ubuntu/Documents/hackathon/css/code.css",
+		"/home/ubuntu/Documents/hackathon/partials/sample.html",
+		"/home/ubuntu/Documents/hackathon/js/app.js",
+		"/home/ubuntu/Documents/hackathon/css/app.css",
+		"/home/ubuntu/Documents/hackathon/partials/gen.html",
+		"/home/ubuntu/Documents/hackathon/partials/login.html",
+		"/home/ubuntu/Documents/hackathon/index.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbview/js/bbgridview.js",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbview/js/search.js",
+		"/home/ubuntu/Downloads/kodiak-master/app/index.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbview/Index.htm",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbview/bbgridview.html",
+		"/home/ubuntu/Documents/mydoc/temp/sourcecodesforrestexpresschanges_/Routes.java",
+		"/home/ubuntu/Documents/mydoc/temp/sourcecodesforrestexpresschanges_/SampleController.java",
+		"/home/ubuntu/Documents/mydoc/temp/sourcecodesforrestexpresschanges_/Service.java",
+		"/home/ubuntu/Documents/mydoc/angular/test/sample.js",
+		"/home/ubuntu/Documents/mydoc/angular/test/todo.js",
+		"/home/ubuntu/Documents/mydoc/angular/test/index.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbview/bbgridview.css",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbview/bbgridview.js",
+		"/home/ubuntu/Documents/mydoc/angular/test/home.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/index1.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/BlackBirdDB.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/todo.css",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbgridview.css",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbgridview.html",
+		"/home/ubuntu/Documents/mydoc/angular/test/bbgridview.js",
+		"/home/ubuntu/Documents/mydoc/angular/test/BlackBirdDB.js",
+		"/home/ubuntu/Documents/mydoc/angular/test/untitled.sql",
+		"/home/ubuntu/Documents/mydoc/angular/test/sample.sublime-workspace",
+		"/home/ubuntu/.m2/settings.xml",
+		"/home/ubuntu/Documents/workspace-sts-3.2.0.RELEASE/dbcassendra/pom.xml",
+		"/home/ubuntu/Documents/mydoc/angular/test/Untitled Document 2",
+		"/home/ubuntu/Documents/mydoc/angular/test/Untitled Document"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/nadeesha/repos/portello/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'",
+			"10.179.21.34:8125",
+			"8125",
+			" ng-show=\"one.info\"",
+			"        <div class=\"pl-card col-md-3\">\n            <div class=\"pl-card-title\">Hitchhiker's guide to Galaxy 101</div>\n            <div class=\"pl-card-info\" ng-show=\"four.info\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</div>\n            <div class=\"pl-card-info\" ng-show=\"four.info\">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</div>\n            <div class=\"pl-card-info\" ng-show=\"four.info\">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>\n            <div class=\"pl-card-links\" ng-click=\"four.info=true;\" ng-show=\"!four.info\">\n                <div class=\"pl-card-link\"><span class=\"glyphicon glyphicon-bullhorn\"></span> What's new?</div>\n            </div>\n            <div class=\"pl-card-links\" ng-click=\"four.info=false;\" ng-show=\"four.info\">\n                <div class=\"pl-card-link\"><span class=\"glyphicon glyphicon-chevron-up\"></span> Back</div>\n            </div>\n        </div>",
+			"\"",
+			"_",
+			" col-md-3",
+			"3",
+			" col-md-3",
+			" col-md-3\"",
+			" col-md-3",
+			"one",
+			".5",
+			"animate-show",
+			"slide",
+			"#000",
+			"cardsService",
+			"margin-bottom:10px;",
+			"3\">",
+			"2",
+			"h2",
+			"span",
+			"div",
+			"2",
+			"50",
+			"00",
+			"kodiak",
+			"port",
+			"options",
+			"p",
+			"h3",
+			"h2",
+			"h1",
+			"h3",
+			"h1",
+			"200",
+			"2",
+			"300px",
+			"lg",
+			"fields.",
+			"fields.article.",
+			"article.",
+			"btn-lg",
+			"span",
+			"repe",
+			">\n",
+			"jquery",
+			"'",
+			"dinusha"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hintr",
+				"node_modules/express/node_modules/connect/node_modules/multiparty/.jshintrc"
+			],
+			[
+				".js",
+				"node_modules/express/node_modules/connect/node_modules/multiparty/.jshintrc"
+			],
+			[
+				"log",
+				"app/partials/login.html"
+			],
+			[
+				"appc",
+				"app/css/app.css"
+			],
+			[
+				"cour",
+				"app/partials/courses.html"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"app",
+				"css/app.css"
+			],
+			[
+				"land",
+				"partials/landing.html"
+			],
+			[
+				"contr",
+				"js/controllers.js"
+			],
+			[
+				"art",
+				"partials/articles.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"porte",
+				"/home/nadeesha/repos/thisday/routes/portello.sublime-project"
+			],
+			[
+				"",
+				"/home/nadeesha/repos/muttley/muttley.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true
+}

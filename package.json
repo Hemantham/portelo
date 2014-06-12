@@ -6,13 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nadeeshacabral/muttley-api.git"
-  },
-  "author": "",
-  "license": "BSD",
-  "readmeFilename": "README.md",
+  "author": "kermit",
   "gitHead": "41d0ba1a2788892b8427ebb5d1f50d1aba77fa8e",
   "bugs": {
     "url": "https://github.com/nadeeshacabral/muttley-api/issues"
@@ -20,12 +14,8 @@
   "dependencies": {
     "express": "~3.4.4",
     "mongoose": "latest",
-    "mongoosastic": "~0.2.0",
     "process": "~0.5.1",
     "request": "~2.27.0",
-    "pagemunch": "~0.1.0",
-    "amqplib": "0.1.0",
-    "ws": "0.4.x",
-    "node-static": "~0.7.2"
+    "ws": "0.4.x"
   }
 }
